@@ -4,16 +4,16 @@ import Layout from '../layouts/Layout.astro';
 ---
 
 
-<Layout title="Welcome to Astro.">
+<Layout title="gymland">
 	<div class="hero">
 		<h2>TRAIN LIKE THE GREATS WITH HERITAGE</h2>
 		<p>The collection that pays homage to the heavy weights, powerful frames and raw aesthetics of the Golden Era of bodybuilding.</p>
-		<a href="/gymshark" class="more">VIEW PRODUCTS</a>
+		<a href="/gymland.github.io/products" class="more">VIEW PRODUCTS</a>
 	</div>
 	<div class="banner">
 		<h2 class="bannerTitle">NOTHING BUT THE BEST</h2>
 		<p class="bannerText">They’re called bestsellers for a reason.</p>
-		<a href="/gymshark" class="more2">VIEW PRODUCTS</a>
+		<a href="/gymland.github.io/wbest" class="more2">VIEW PRODUCTS</a>
 	</div>
 	
 </Layout>
@@ -141,7 +141,67 @@ import Layout from '../layouts/Layout.astro';
 		transition: background-color 0.3s, color 0.3s ease;
 	}
 	
+	/* fenceeeeeeeeeeeeee */
+	@media screen and (max-width: 767px) {
+		.hero{
+		z-index: 0;
+		position: relative;
+		height: 80vh;
+		max-width: 100vw !important;
+		background-position: right;
+		background-size: cover;
+	}
 
+	.hero > h2{
+		width: 220px;
+		text-align: left;
+		margin-left: 30px;
+		font-size: 1rem;
+	}
+
+	.hero > p{
+		font-size: 1rem;
+		position: relative;
+		line-height: 25px;
+		width: 300px;
+		margin-left: 30px;
+	}
+
+	.more{
+		font-size: 0.9rem;
+		background-color: #ffffff;
+		margin-left: 30px;
+		padding: 12px 20px;
+		border-radius: 20px;
+	}
+
+	.banner{
+		margin-top: 200px;
+		max-width: 100vw;
+		height: 70vh;
+		background-size: cover;
+		background-position: right;
+	}
+	
+	.bannerTitle{
+		
+		font-size: 1.8rem;
+		width: 30%;
+		margin-left: 30px;
+	}
+
+	.bannerText{
+		font-size: 1.1rem;
+		width: 30%;
+		margin-left: 30px;
+	}
+
+	.more2{
+		margin-left: 30px;
+		padding: 12px 20px;
+		border-radius: 20px;
+	}
+	}
 
 
 </style>
