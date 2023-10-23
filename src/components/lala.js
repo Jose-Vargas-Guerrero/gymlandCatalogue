@@ -1,10 +1,8 @@
----
 import  logo from '../../public/images/Gymland01.jpg'
 import logo2 from '../../public/images/Twitter-cover.jpg'
 import logo3 from '../../public/images/logo.jpg'
-import lala from '../components/lala'
 
-const data = [
+const lala = [
     {
         id: 1,
         name: 'nombre1',
@@ -22,17 +20,4 @@ const data = [
     },
 ]
 
-import { Image } from 'astro:assets'
-
----
-
-<div>
-    {
-        lala.map((d) => (
-                <div id={d.name}>
-                    <h1>{d.name}</h1>
-                    <Image src={d.image} alt={d.name} height={100}/>
-                </div>
-        ))
-    }
-</div>
+export default lala;
