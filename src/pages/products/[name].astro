@@ -1,6 +1,7 @@
 ---
 import Layout from "../../layouts/Layout.astro"
 import gymsharkProducts from "../../components/gymsharkProducts";
+import { Image } from "astro:assets";
 
 import image1 from '/public/images/3pk1.JPG';
 import image2 from '/public/images/3pk2.JPG';
@@ -368,6 +369,63 @@ const {p} = Astro.props
     <div class="gallery-container">
         <div class="gallery-images">
                 <div class="gallery-inner">
+                    <Image
+                class="gallery-image"
+                src={p.image1}
+                alt={p.name}
+                loading="lazy"
+                width={200}
+                height={150}
+                />
+                <Image
+                class="gallery-image"
+                src={p.image2}
+                alt={p.name}
+                loading="lazy"
+                width={200}
+                height={150}
+                />
+                <Image
+                class="gallery-image"
+                src={p.image3}
+                alt={p.name}
+                loading="lazy"
+                width={200}
+                height={150}
+                />
+                <Image
+                class="gallery-image"
+                src={p.image4}
+                alt={p.name}
+                loading="lazy"
+                width={200}
+                height={150}
+                />
+                <Image
+                class="gallery-image"
+                src={p.image5}
+                alt={p.name}
+                loading="lazy"
+                width={200}
+                height={150}
+                />
+                <Image
+                class="gallery-image"
+                src={p.image6}
+                alt={p.name}
+                loading="lazy"
+                width={200}
+                height={150}
+                />
+                <Image
+                class="gallery-image"
+                src={p.image7}
+                alt={p.name}
+                loading="lazy"
+                width={200}
+                height={150}
+                />
+                
                     <img class="gallery-image" src={p.image1}/>
                     <img class="gallery-image" src={p.image2}/>
                     <img class="gallery-image" src={p.image3}/>
