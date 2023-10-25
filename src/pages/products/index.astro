@@ -1,8 +1,6 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import gymsharkProducts from "../../components/gymsharkProducts";
-import { Image } from "astro:assets";
-
 ---
 
 <Layout title="gymshark products">
@@ -13,24 +11,9 @@ import { Image } from "astro:assets";
           <div class="box" id={p.color}>
             <a class="image-Link" href={"/products/" + p.name}>
               <div class="imageBox">
-                <Image
-                  class="product-image"
-                  src={p.image1}
-                  alt={p.name}
-                  loading="lazy"
-                  width={200}
-                  height={150}
-                />
+                <img class="product-image" src={p.image1} alt={p.name} />
 
-
-                <Image
-                class="product-image fade"
-                src={p.image2}
-                alt={p.name}
-                loading="lazy"
-                width={200}
-                height={150}
-                />
+                <img class="product-image fade" src={p.image2} alt={p.name} />
               </div>
               <h4 class="product-name">{p.productName}</h4>
               <p class="product-type">{p.category}</p>
