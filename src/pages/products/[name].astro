@@ -1,7 +1,7 @@
 ---
 import Layout from "../../layouts/Layout.astro";
 import gymsharkProducts from "../../components/gymsharkProducts";
-import { Image } from "astro:assets";
+import Footer from "../../components/Footer.astro";
 
 export async function getStaticPaths() {
   const info = gymsharkProducts;
@@ -40,6 +40,7 @@ const { p } = Astro.props;
       </div>
     </div>
   </div>
+  <Footer/>
 </Layout>
 
 <style>

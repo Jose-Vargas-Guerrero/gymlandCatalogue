@@ -1,6 +1,7 @@
 ---
 import Layout from "../../layouts/Layout.astro"
 import sproducts from '../../components/sproducts'
+import Footer from "../../components/Footer.astro"
 
 
 export async function getStaticPaths() {
@@ -40,6 +41,7 @@ const {p} = Astro.props
             </div>
         </div>  
     </div>
+    <Footer/>
 </Layout>
 
 

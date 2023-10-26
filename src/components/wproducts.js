@@ -27,7 +27,7 @@ const wproducts = [
         color: 'Royal Blue',
         category: 'Body fit',
         size: 'S',
-        price: 1200
+        price: 1190
     },
     {
         id: 3,
@@ -42,7 +42,7 @@ const wproducts = [
         color: 'Black',
         category: 'Body fit',
         size: 'S | M',
-        price: 1200
+        price: 1190
     },
     {
         id: 4,
@@ -57,7 +57,7 @@ const wproducts = [
         color: 'Black',
         category: 'Body fit',
         size: 'S | M',
-        price: 1500
+        price: 1490
     },
     {
         id: 6,
@@ -72,7 +72,7 @@ const wproducts = [
         color: 'Royal Blue',
         category: 'Body fit',
         size: 'S',
-        price: 1500
+        price: 1490
     },
     {
         id: 7,
@@ -87,7 +87,7 @@ const wproducts = [
         color: 'Graphite',
         category: 'Body fit',
         size: 'M',
-        price: 1500
+        price: 1490
     },
     {
         id: 8,

@@ -48,7 +48,7 @@ const wproducts = [
         color: 'Negro, Gris, Beige, Celeste Claro',
         category: 'Body fit',
         size: 'S',
-        price: 396
+        price: 395
     },
     {
         id: 5,

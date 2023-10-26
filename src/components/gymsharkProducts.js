@@ -21,7 +21,7 @@ const gymsharkProducts = [
         image2: 'https://cdn.shopify.com/s/files/1/0156/6146/files/GFXCrewSocks7PKGSWhiteI3A2V-WB57-0151_828x.jpg?v=1695813529',
         color: 'White',
         category: 'Body fit',
-        size: 'L',
+        size: 'M',
         price: 410
     },
     {
@@ -47,7 +47,7 @@ const gymsharkProducts = [
         color: 'Reef | Cherry Brown',
         category: 'Body fit',
         size: 'S',
-        price: 1400
+        price: 1390
     },
     {
         id: 4,
@@ -62,7 +62,7 @@ const gymsharkProducts = [
         color: 'Desert Sage Green',
         category: 'Body fit',
         size: 'S',
-        price: 1200
+        price: 1190
     },
     {
         id: 5,
@@ -77,7 +77,7 @@ const gymsharkProducts = [
         color: 'Pebble Grey/Soul Brown',
         category: 'Body fit',
         size: 'M',
-        price: 1430
+        price: 1390
     },
     {
         id: 6,
@@ -92,7 +92,7 @@ const gymsharkProducts = [
         color: 'Storm Red/Cherry Brown',
         category: 'Body fit',
         size: 'S',
-        price: 1450
+        price: 1390
     },
     {
         id: 7,
@@ -107,7 +107,7 @@ const gymsharkProducts = [
         color: 'Slate Lavender',
         category: 'Body fit',
         size: 'M | S',
-        price: 1200
+        price: 1190
     },
     {
         id: 8,
@@ -122,7 +122,7 @@ const gymsharkProducts = [
         color: 'Moss Olive',
         category: 'Body fit',
         size: 'S | M',
-        price: 1300
+        price: 1290
     },
     {
         id: 9,
@@ -163,7 +163,7 @@ const gymsharkProducts = [
         color: 'Black',
         category: 'Body fit',
         size: 'S',
-        price: 1500
+        price: 1490
     },
     {
         id: 12,
@@ -205,7 +205,7 @@ const gymsharkProducts = [
         color: 'Earl Blue Marl',
         category: 'Body fit',
         size: 'S',
-        price: 1800
+        price: 1690
     },
     {
         id: 15,
@@ -220,7 +220,7 @@ const gymsharkProducts = [
         color: 'Hoya Green',
         category: 'Body fit',
         size: 'S',
-        price: 1300
+        price: 1290
     },
     {
         id: 16,
@@ -232,7 +232,7 @@ const gymsharkProducts = [
         color: 'Black Marl',
         category: 'Body fit',
         size: 'M',
-        price: 1500
+        price: 1490
     },
     {
         id: 17,
@@ -247,7 +247,7 @@ const gymsharkProducts = [
         color: 'Stellar Blue Marl',
         category: 'Body fit',
         size: 'S',
-        price: 1500
+        price: 1490
     }
 ]
 
