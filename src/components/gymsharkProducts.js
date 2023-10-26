@@ -16,24 +16,27 @@ const gymsharkProducts = [
     {
         id: 111,
         name: 'Crew-Socks-7PK',
-        productName: 'Crew socks 7pK',
+        productName: 'Crew socks',
         image1: 'https://cdn.shopify.com/s/files/1/0156/6146/files/GFXCrewSocks7PKGSWhiteI3A2V-WB57-0081-4_1920x.jpg?v=1695813528',
         image2: 'https://cdn.shopify.com/s/files/1/0156/6146/files/GFXCrewSocks7PKGSWhiteI3A2V-WB57-0151_828x.jpg?v=1695813529',
         color: 'White',
         category: 'Body fit',
         size: 'M',
-        price: 410
+        price: 410,
+        type: ' c/u '
     },
     {
         id: 2,
         name: 'Crew-Socks-5pk',
-        productName: 'Crew socks 5pk',
+        productName: 'Crew socks',
         image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/5pk1.JPG?raw=true',
         image2: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/5pk2.JPG?raw=true',
         color: 'Plum Pink/Deep Teal/Citrus Green/Capri Blue/Grape Purple',
         category: 'Body fit',
         size: 'S',
-        price: 250
+        price: 250,
+        type: ' c/u '
+
     },
     {
         id: 3,
