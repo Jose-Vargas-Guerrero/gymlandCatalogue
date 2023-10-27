@@ -11,7 +11,8 @@ const gymsharkProducts = [
         color: 'White',
         category: 'Body fit',
         size: 'S',
-        price: 310
+        price: 310,
+        type: ' c/u '
     },
     {
         id: 111,
@@ -22,7 +23,7 @@ const gymsharkProducts = [
         color: 'White',
         category: 'Body fit',
         size: 'M',
-        price: 410,
+        price: 390,
         type: ' c/u '
     },
     {
