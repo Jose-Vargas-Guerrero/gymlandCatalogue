@@ -34,6 +34,7 @@ const { p } = Astro.props;
       <div class="box">
         <h2>{p.productName}</h2>
         <h2>L.{p.price}</h2>
+        { p.sales && <strong class="price sales">Oferta: {p.packet} L. {p.sales}</strong>}
         <p>{p.color}</p>
         <p>{p.category}</p>
         <p class="space">Size: {p.size}</p>
@@ -71,6 +72,16 @@ const { p } = Astro.props;
 
   h2 {
     font-family: "Montserrat", sans-serif;
+  }
+
+  .sales{
+    font-family: "Montserrat", sans-serif;
+    color: white;
+    border-radius: 14px;
+    background-color: #000000;
+    padding: 10px;
+    width: auto;
+    position:relative;
   }
 
   p {

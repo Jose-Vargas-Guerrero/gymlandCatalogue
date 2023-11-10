@@ -99,7 +99,8 @@ const gymsharkProducts = [
         color: 'Storm Red/Cherry Brown',
         category: 'Body fit',
         size: 'S',
-        price: 1390
+        price: 1390,
+        sales: 990
     },
     {
         id: 7,
