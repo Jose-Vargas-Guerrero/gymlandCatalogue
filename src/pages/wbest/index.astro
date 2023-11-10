@@ -20,6 +20,9 @@ import Footer from "../../components/Footer.astro";
               <p class="color">{p.color}</p>
               <p class="color">Size: {p.size}</p>
               <strong class="price">L.{p.price}</strong>
+              <br/>
+              <br/>
+              { p.sales && <strong class="price sales">En Oferta: {p.packet} L. {p.sales}</strong>}
             </a>
           </div>
         ))
@@ -92,6 +95,15 @@ import Footer from "../../components/Footer.astro";
   .price {
     font-family: "Roboto", sans-serif;
     margin: 3px 0;
+  }
+
+  .sales{
+    color: white;
+    border-radius: 14px;
+    background-color: #000000;
+    padding: 10px;
+    width: auto;
+    position:relative;
   }
 
   .box {

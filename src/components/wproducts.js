@@ -12,7 +12,8 @@ const wproducts = [
         color: 'Royal Blue',
         category: 'Body fit',
         size: 'S',
-        price: 1390
+        price: 1390,
+        sales: 970
     },
     {
         id: 2,
@@ -27,7 +28,8 @@ const wproducts = [
         color: 'Royal Blue',
         category: 'Body fit',
         size: 'S',
-        price: 1190
+        price: 1190,
+        sales: 830
     },
     {
         id: 3,

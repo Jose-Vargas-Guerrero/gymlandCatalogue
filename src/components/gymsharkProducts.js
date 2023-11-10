@@ -12,7 +12,9 @@ const gymsharkProducts = [
         category: 'Body fit',
         size: 'S',
         price: 310,
-        type: ' c/u '
+        type: ' c/u ',
+        packet: "paquete de 3",
+        sales: 750
     },
     {
         id: 111,
@@ -81,7 +83,8 @@ const gymsharkProducts = [
         color: 'Pebble Grey/Soul Brown',
         category: 'Body fit',
         size: 'M',
-        price: 1390
+        price: 1390,
+        sales: 990,
     },
     {
         id: 6,
@@ -142,6 +145,20 @@ const gymsharkProducts = [
         category: 'Body fit',
         size: 'S',
         price: 1320
+    },
+    {
+        id: 99,
+        name: 'Legacy-Shorts-Washed-Green',
+        productName: 'Legacy Shorts',
+        image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/legacyshort1.jpg?raw=true',
+        image2: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/legacyshort2.jpg?raw=true',
+        image3: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/legacyshort3.jpg?raw=true',
+        image4: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/legacyshort4.jpg?raw=true',
+        image5: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/legacyshort5.jpg?raw=true',
+        color: 'Washed Green',
+        category: 'Body fit',
+        size: 'M',
+        price: 1320,
     },
     {
         id: 10,
@@ -209,7 +226,8 @@ const gymsharkProducts = [
         color: 'Earl Blue Marl',
         category: 'Body fit',
         size: 'S',
-        price: 1690
+        price: 1690,
+        sales: 1185
     },
     {
         id: 15,
