@@ -13,8 +13,6 @@ const gymsharkProducts = [
         size: 'S',
         price: 270,
         type: ' c/u ',
-        packet: "paquete de 3",
-        sales: 750
     },
     {
         id: 111,
@@ -37,6 +35,20 @@ const gymsharkProducts = [
         color: 'Plum Pink/Deep Teal/Citrus Green/Capri Blue/Grape Purple',
         category: 'Body fit',
         size: 'S',
+        price: 250,
+        type: ' c/u '
+
+    },{
+        id: 222,
+        name: 'calcetines-gymshark',
+        productName: 'Calcetines gymshark',
+        image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/calcetinesgymshark3.jpeg?raw=true',
+        image2: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/calcetinesgymshark4.jpeg?raw=true',
+        image3: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/calcetinesgymshark2.jpeg?raw=true',
+        image4: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/calcetinesgymshark1.jpeg?raw=true',
+        color:  'white',
+        category: 'Body fit',
+        size: 'S | M | L',
         price: 250,
         type: ' c/u '
 

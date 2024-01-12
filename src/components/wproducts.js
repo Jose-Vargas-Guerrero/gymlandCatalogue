@@ -27,7 +27,7 @@ const wproducts = [
         color: 'Royal Blue',
         category: 'Set completo de 2 piezas',
         size: 'S',
-        price: 1390,
+        price: 1590,
     },
     {
         id: 3,
@@ -59,21 +59,7 @@ const wproducts = [
         size: 'S | M',
         price: 1490
     }, */
-    {
-        id: 6,
-        name: 'Power-Seamless-Leggings-Royal-Blue',
-        productName: 'Power Seamless Leggings',
-        image1: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_RoyalBlue_01_226d6f56-be65-483f-9572-6778b174e2b7_800x.jpg?v=1683120143',
-        image2: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_RoyalBlue_02_eaad34cb-01f0-49cd-bc88-fd2278ba3863_800x.jpg?v=1683120143',
-        image3: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_RoyalBlue_03_29cc9b6d-7581-46f9-89f8-03d06f3162c5_800x.jpg?v=1683120143',
-        image4: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_RoyalBlue_04_3c5ee97d-2fda-40f7-ac9e-71442a626cdf_800x.jpg?v=1683120143',
-        image5: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_RoyalBlue_05_d2bb3a8e-a29b-4c74-a481-1a36c1bb5534_800x.jpg?v=1683120143',
-        image6: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_RoyalBlue_06_a073c073-6d71-4e38-8120-fa28aa57ac1f_800x.jpg?v=1683120143',
-        color: 'Royal Blue',
-        category: 'Body fit',
-        size: 'S',
-        price: 1490
-    },
+    
     {
         id: 7,
         name: 'Power-Seamless-Leggings-Graphite',
