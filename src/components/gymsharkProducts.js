@@ -11,7 +11,7 @@ const gymsharkProducts = [
         color: 'White',
         category: 'Body fit',
         size: 'S',
-        price: 310,
+        price: 270,
         type: ' c/u ',
         packet: "paquete de 3",
         sales: 750
@@ -25,7 +25,7 @@ const gymsharkProducts = [
         color: 'White',
         category: 'Body fit',
         size: 'M',
-        price: 390,
+        price: 320,
         type: ' c/u '
     },
     {
@@ -53,7 +53,7 @@ const gymsharkProducts = [
         color: 'Reef | Cherry Brown',
         category: 'Body fit',
         size: 'S',
-        price: 1390
+        price: 1190
     },
     {
         id: 4,
@@ -68,7 +68,7 @@ const gymsharkProducts = [
         color: 'Desert Sage Green',
         category: 'Body fit',
         size: 'S',
-        price: 1190
+        price: 990
     },
     {
         id: 5,
@@ -83,8 +83,7 @@ const gymsharkProducts = [
         color: 'Pebble Grey/Soul Brown',
         category: 'Body fit',
         size: 'M',
-        price: 1390,
-        sales: 990,
+        price: 1090,
     },
     {
         id: 6,
@@ -99,8 +98,7 @@ const gymsharkProducts = [
         color: 'Storm Red/Cherry Brown',
         category: 'Body fit',
         size: 'S',
-        price: 1390,
-        sales: 990
+        price: 1190,
     },
     {
         id: 7,
@@ -115,7 +113,7 @@ const gymsharkProducts = [
         color: 'Slate Lavender',
         category: 'Body fit',
         size: 'M | S',
-        price: 1190
+        price: 990
     },
     {
         id: 8,
@@ -130,7 +128,7 @@ const gymsharkProducts = [
         color: 'Moss Olive',
         category: 'Body fit',
         size: 'S | M',
-        price: 1290
+        price: 1090
     },
     {
         id: 9,
@@ -145,7 +143,7 @@ const gymsharkProducts = [
         color: 'Lakgeside Blue',
         category: 'Body fit',
         size: 'S',
-        price: 1320
+        price: 1190
     },
     {
         id: 99,
@@ -159,7 +157,7 @@ const gymsharkProducts = [
         color: 'Washed Green',
         category: 'Body fit',
         size: 'M',
-        price: 1320,
+        price: 1190,
     },
     {
         id: 10,
@@ -174,7 +172,7 @@ const gymsharkProducts = [
         color: 'Denim Blue',
         category: 'Body fit',
         size: 'M',
-        price: 1290
+        price: 1090
     },
     {
         name: 'Studio-Shorts',
@@ -185,7 +183,7 @@ const gymsharkProducts = [
         color: 'Black',
         category: 'Body fit',
         size: 'S',
-        price: 1490
+        price: 990
     },
     {
         id: 12,
@@ -200,7 +198,7 @@ const gymsharkProducts = [
         color: 'Coastal Blue',
         category: 'Body fit',
         size: 'S',
-        price: 1650
+        price: 1390
     },
     {
         id: 13,
@@ -215,7 +213,7 @@ const gymsharkProducts = [
         color: 'Reef | Black',
         category: 'Body fit',
         size: 'S',
-        price: 1690
+        price: 1490
     },
     {
         id: 14,
@@ -227,8 +225,7 @@ const gymsharkProducts = [
         color: 'Earl Blue Marl',
         category: 'Body fit',
         size: 'S',
-        price: 1690,
-        sales: 1185
+        price: 1390,
     },
     {
         id: 15,
@@ -243,7 +240,7 @@ const gymsharkProducts = [
         color: 'Hoya Green',
         category: 'Body fit',
         size: 'S',
-        price: 1290
+        price: 990
     },
     {
         id: 16,
@@ -255,7 +252,7 @@ const gymsharkProducts = [
         color: 'Black Marl',
         category: 'Body fit',
         size: 'M',
-        price: 1490
+        price: 1290
     },
     {
         id: 17,
@@ -270,7 +267,7 @@ const gymsharkProducts = [
         color: 'Stellar Blue Marl',
         category: 'Body fit',
         size: 'S',
-        price: 1490
+        price: 1190
     }
 ]
 

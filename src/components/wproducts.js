@@ -2,7 +2,7 @@ const wproducts = [
     {
         id: 1,
         name: 'Power-Seamless-Cycling-Shorts',
-        productName: 'Power Seamless Cycling Shorts',
+        productName: 'Cycling Shorts y Sports Bra',
         image1: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_RoyalBlue_01_6be47071-d123-4bf1-80c1-3fd39682da0e_800x.jpg?v=1683120098',
         image2: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_RoyalBlue_02_a662515e-dc28-4715-842f-7af8f961fd17_800x.jpg?v=1683120098',
         image3: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_RoyalBlue_03_d806434f-2a84-4656-89ed-da5bb6c2df80_800x.jpg?v=1683120098',
@@ -10,15 +10,14 @@ const wproducts = [
         image5: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_RoyalBlue_05_524322c9-cfdf-4f7b-b49b-4665acaa7a40_800x.jpg?v=1683120098',
         image6: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_RoyalBlue_06_7e64dd52-791a-4952-b67c-3bfd2c4ec20d_800x.jpg?v=1683120098',
         color: 'Royal Blue',
-        category: 'Body fit',
+        category: 'Set completo de 2 piezas',
         size: 'S',
-        price: 1390,
-        sales: 970
+        price: 1290,
     },
     {
         id: 2,
         name: 'Power-Seamless-Sports-Bra',
-        productName: 'Power Seamless Sports Bra',
+        productName: 'Leggins y Sports Bra',
         image1: 'https://www.womensbest.com/cdn/shop/products/Power_Bra_RoyalBlue_01_0abd2975-e7e1-4c9d-8074-810578e506c8_800x.jpg?v=1683120047',
         image2: 'https://www.womensbest.com/cdn/shop/products/Power_Bra_RoyalBlue_02_11087fc4-0412-48e8-b374-ba90088361d3_800x.jpg?v=1683120047',
         image3: 'https://www.womensbest.com/cdn/shop/products/Power_Bra_RoyalBlue_03_ea5d717b-69cf-49ab-9ad8-c05c75ced5bf_800x.jpg?v=1683120047',
@@ -26,27 +25,26 @@ const wproducts = [
         image5: 'https://www.womensbest.com/cdn/shop/products/Power_Bra_RoyalBlue_05_0caf0165-f06a-4a13-8c77-70efb18c7a32_800x.jpg?v=1683120048',
         image6: 'https://www.womensbest.com/cdn/shop/products/Power_Bra_RoyalBlue_06_f87b3d8e-a6fd-48a6-a7b2-32c4a9739e77_800x.jpg?v=1683120048',
         color: 'Royal Blue',
-        category: 'Body fit',
+        category: 'Set completo de 2 piezas',
         size: 'S',
-        price: 1190,
-        sales: 830
+        price: 1390,
     },
     {
         id: 3,
         name: 'Power-Seamless-Sports-Bra-Black',
-        productName: 'Power Seamless Sports Bra',
+        productName: 'Legginsg y Sports Bra',
         image1: 'https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_01_800x.jpg?v=1686910629',
         image2: 'https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_02_800x.jpg?v=1686910628',
-        image3: 'https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_03_800x.jpg?v=1686910628',
-        image4: 'https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_04_800x.jpg?v=1686910629',
+        image3: 'https://www.womensbest.com/cdn/shop/files/Power_Leggings_Black_01_800x.jpg?v=1686910619',
+        image4: 'https://www.womensbest.com/cdn/shop/files/Power_Leggings_Black_06_800x.jpg?v=1686910620',
         image5: 'https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_06_800x.jpg?v=1686910766',
         image6: 'https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_05_800x.jpg?v=1686910766',
         color: 'Black',
-        category: 'Body fit',
+        category: 'set completo de 2 piezas',
         size: 'S | M',
-        price: 1190
+        price: 1690
     },
-    {
+   /*  {
         id: 4,
         name: 'Power-Seamless-Leggings-Black',
         productName: 'Power Seamless Leggings',
@@ -60,7 +58,7 @@ const wproducts = [
         category: 'Body fit',
         size: 'S | M',
         price: 1490
-    },
+    }, */
     {
         id: 6,
         name: 'Power-Seamless-Leggings-Royal-Blue',
@@ -79,7 +77,7 @@ const wproducts = [
     {
         id: 7,
         name: 'Power-Seamless-Leggings-Graphite',
-        productName: 'Power Seamless Leggings',
+        productName: 'Power Seamless Leggings y Sports Bra',
         image1: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_Graphite_01_800x.jpg?v=1691744495',
         image2: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_Graphite_02_800x.jpg?v=1691744495',
         image3: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_Graphite_04_800x.jpg?v=1692166109',
@@ -87,9 +85,9 @@ const wproducts = [
         image5: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_Graphite_05_800x.jpg?v=1691744495',
         image6: 'https://www.womensbest.com/cdn/shop/products/Power_Leggings_Graphite_06_800x.jpg?v=1691744495',
         color: 'Graphite',
-        category: 'Body fit',
+        category: 'set completo de 2 piezas',
         size: 'M',
-        price: 1490
+        price: 1690
     },
     {
         id: 8,
@@ -104,12 +102,12 @@ const wproducts = [
         color: 'Graphite',
         category: 'Body fit',
         size: 'S',
-        price: 1350
+        price: 990
     },
     {
         id: 9,
         name: 'Power-Seamless-Cycling-Shorts-Graphite',
-        productName: 'Power Seamless Cycling Shorts',
+        productName: 'Power Seamless Cycling Shorts y sports Bra',
         image1: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_Graphite_01_800x.jpg?v=1691744518',
         image2: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_Graphite_02_800x.jpg?v=1691744518',
         image3: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_Graphite_03_800x.jpg?v=1691744518',
@@ -117,14 +115,14 @@ const wproducts = [
         image5: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_Graphite_05_800x.jpg?v=1691744518',
         image6: 'https://www.womensbest.com/cdn/shop/products/Power_CyclingShorts_Graphite_06_800x.jpg?v=1691744518',
         color: 'Graphite',
-        category: 'Body fit',
+        category: 'set completo de 2 piezas',
         size: 'S',
         price: 1390
     },
     {
         id: 10,
         name: 'Power-Seamless-Short-Sleeve-Crop-Top-Dark-Cherry',
-        productName: 'Power Seamless Short Sleeve Crop Top',
+        productName: 'Power Seamless Short y Sleeve Crop Top',
         image1: 'https://www.womensbest.com/cdn/shop/products/Power_ShortSleeve_DarkCherry_01_800x.jpg?v=1691744483',
         image2: 'https://www.womensbest.com/cdn/shop/products/Power_ShortSleeve_DarkCherry_02_800x.jpg?v=1691744483',
         image3: 'https://www.womensbest.com/cdn/shop/products/Power_ShortSleeve_DarkCherry_03_800x.jpg?v=1691744483',
@@ -132,9 +130,9 @@ const wproducts = [
         image5: 'https://www.womensbest.com/cdn/shop/products/Power_ShortSleeve_DarkCherry_05_800x.jpg?v=1691744483',
         image6: 'https://www.womensbest.com/cdn/shop/products/Power_ShortSleeve_DarkCherry_06_800x.jpg?v=1691744483',
         color: 'Dark Cherry',
-        category: 'Body fit',
+        category: 'set completo de 2 piezas',
         size: 'S',
-        price: 1290
+        price: 1690
     },
     {
         id: 11,
@@ -149,7 +147,7 @@ const wproducts = [
         color: 'Dark Cherry',
         category: 'Body fit',
         size: 'S',
-        price: 1390
+        price: 990
     },
     {
         id: 12,
@@ -163,7 +161,7 @@ const wproducts = [
         color: 'Walnut Brown',
         category: 'Body fit',
         size: 'S',
-        price: 1350
+        price: 990
     },
     {
         id: 13,
@@ -177,7 +175,7 @@ const wproducts = [
         color: 'Walnut Brown',
         category: 'Body fit',
         size: 'S',
-        price: 1390
+        price: 990
     }
 ];
 

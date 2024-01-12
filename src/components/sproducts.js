@@ -10,7 +10,7 @@ const wproducts = [
         color: 'Negro',
         category: 'Body fit',
         size: 'S | M',
-        price: 540
+        price: 490
     },
     {
         id: 2,
