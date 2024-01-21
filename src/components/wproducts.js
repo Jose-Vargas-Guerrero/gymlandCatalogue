@@ -48,11 +48,11 @@ const wproducts = [
     image1:
       "https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_01_800x.jpg?v=1686910629",
     image2:
-      "https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_02_800x.jpg?v=1686910628",
+      "https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_03_d2d96b1f-6fb8-4795-a14c-0909b2b709d4_800x.jpg?v=1705487312",
     image3:
-      "https://www.womensbest.com/cdn/shop/files/Power_Leggings_Black_01_800x.jpg?v=1686910619",
+      "https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_04_039a6725-6efd-4271-9b23-b57e78f40183_800x.jpg?v=1705487312",
     image4:
-      "https://www.womensbest.com/cdn/shop/files/Power_Leggings_Black_06_800x.jpg?v=1686910620",
+      "https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_06_08ea3c6b-46cc-44d8-88ee-01f15beba019_800x.jpg?v=1705487313",
     image5:
       "https://www.womensbest.com/cdn/shop/files/Power_Bra_Black_06_800x.jpg?v=1686910766",
     image6:
