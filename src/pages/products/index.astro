@@ -16,7 +16,9 @@ import Footer from "../../components/Footer.astro";
 
                 <img loading="lazy" class="product-image fade" src={p.image2} alt={p.name} />
               </div>
+              
               <h4 class="product-name">{p.productName}</h4>
+              <strong class="stock">{p.stock}</strong>
               <p class="product-type">{p.category}</p>
               <p class="color">{p.color}</p>
               <p class="color">Size: {p.size}</p>
@@ -44,7 +46,7 @@ import Footer from "../../components/Footer.astro";
     height: auto;
     padding: 0 60px;
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 80px;
   }
 
@@ -97,6 +99,13 @@ import Footer from "../../components/Footer.astro";
   .price {
     font-family: "Roboto", sans-serif;
     margin: 5px 0;
+  }
+
+  .stock{
+    font-family: "Roboto", sans-serif;
+    color: #bf2e35;
+    margin: 3px 0;
+    font-size: 1.1rem;
   }
 
   .sales{

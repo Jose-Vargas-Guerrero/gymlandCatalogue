@@ -10,7 +10,8 @@ const wproducts = [
         color: 'Negro',
         category: 'Body fit',
         size: 'S | M',
-        price: 490
+        price: 490,
+        stock: 'Agotado',
     },
     {
         id: 2,
@@ -24,7 +25,8 @@ const wproducts = [
         color: 'Negro, Beige Blanco',
         category: 'Body fit',
         size: 'S',
-        price: 360
+        price: 360,
+        stock: 'Color negro agotado',
     },
     {
         id: 3,
@@ -62,7 +64,8 @@ const wproducts = [
         color: 'Negro, Gris Claro, Rosado, Gris Oscuro',
         category: 'Body fit',
         size: 's',
-        price: 430
+        price: 430,
+        stock: 'Color negro agotado',
     },
     {
         id: 6,
@@ -75,7 +78,8 @@ const wproducts = [
         color: 'Negro, Morado, Rosado, Gris',
         category: 'Body fit',
         size: 'S',
-        price: 380
+        price: 380,
+        stock: 'Color negro y rosado agotado',
     }
 ];
 

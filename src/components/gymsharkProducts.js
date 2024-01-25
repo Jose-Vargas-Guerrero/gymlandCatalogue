@@ -170,6 +170,7 @@ const gymsharkProducts = [
         category: 'Body fit',
         size: 'M',
         price: 1190,
+        stock: 'Agotado',
     },
     {
         id: 10,

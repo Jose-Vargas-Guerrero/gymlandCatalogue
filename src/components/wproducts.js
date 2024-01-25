@@ -119,6 +119,7 @@ const wproducts = [
     category: "Body fit",
     size: "S",
     price: 990,
+
   },
   {
     id: 9,
@@ -161,6 +162,7 @@ const wproducts = [
     category: "set completo de 2 piezas",
     size: "S",
     price: 1690,
+    stock: 'Agotado',
   },
   {
     id: 11,
