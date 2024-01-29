@@ -50,7 +50,8 @@ const gymsharkProducts = [
         category: 'Body fit',
         size: 'S | M | L',
         price: 250,
-        type: ' c/u '
+        type: ' c/u ',
+        stock: 'Agotado',
 
     },
     {
@@ -226,7 +227,8 @@ const gymsharkProducts = [
         color: 'Reef | Black',
         category: 'Body fit',
         size: 'S',
-        price: 1490
+        price: 1490,
+        stock: 'Agotado',
     },
     {
         id: 14,
@@ -239,6 +241,7 @@ const gymsharkProducts = [
         category: 'Body fit',
         size: 'S',
         price: 1390,
+        stock: 'Agotado',
     },
     {
         id: 15,
