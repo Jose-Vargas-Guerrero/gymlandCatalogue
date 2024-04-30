@@ -228,7 +228,7 @@ const wproducts = [
         size: 'M',
         price: 30,
         stock: 'Agotado',
-    },/* 
+    }, 
     {   
         id: 18,
         name: 'Tennis-Basic-Black-White',
@@ -303,7 +303,7 @@ const wproducts = [
         image2: 'https://m.media-amazon.com/images/I/81tlC7mQl6L._AC_SX679_.jpg',
         size: '14',
         price: 690,
-    }, */
+    }, 
 
 ];  
 
