@@ -231,7 +231,7 @@ const wproducts = [
     },
     {   
         id: 18,
-        name: 'Tennis-Basic-Black|White',
+        name: 'Tennis-Basic-Black-White',
         productName: 'Tennis Bassic',
         image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/TennisbasicBlack_White1.JPG?raw=true',
         image2: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/TennisbasicBlack_White2.JPG?raw=true',
@@ -285,7 +285,6 @@ const wproducts = [
         category: 'Body fit',
         size: 'M',
         price: 875,
-        stock: '',
     },
     {   
         id: 23,
@@ -293,11 +292,8 @@ const wproducts = [
         productName: 'Celsisu On the Go Berry',
         image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/Celsius%20On-The-Go1.JPG?raw=true',
         image2: 'https://m.media-amazon.com/images/I/817S691c6UL._AC_SX679_.jpg',
-        color: '',
-        category: '',
         size: '14',
         price: 690,
-        stock: '',
     },
     {   
         id: 24,
@@ -305,11 +301,8 @@ const wproducts = [
         productName: 'Celsisu On the Go Kiwi',
         image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/Celsius%20On-The-Go2.JPG?raw=true',
         image2: 'https://m.media-amazon.com/images/I/81tlC7mQl6L._AC_SX679_.jpg',
-        color: '',
-        category: '',
         size: '14',
         price: 690,
-        stock: '',
     },
 
 ];  
