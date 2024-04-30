@@ -231,7 +231,7 @@ const wproducts = [
     },
     {   
         id: 18,
-        name: 'Tennis-Basic-Black|White',
+        name: 'Tennis-Basic-Black-White',
         productName: 'Tennis Bassic',
         image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/TennisbasicBlack_White1.JPG?raw=true',
         image2: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/TennisbasicBlack_White2.JPG?raw=true',
