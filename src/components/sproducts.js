@@ -227,7 +227,7 @@ const wproducts = [
         category: 'Accesorios',
         size: 'M',
         price: 30,
-        stock: 'Agotado',
+        stock: 'Agotados',
     },
     {   
         id: 18,
