@@ -38,7 +38,8 @@ const gymsharkProducts = [
         price: 250,
         type: ' c/u '
 
-    },{
+    },
+    {
         id: 222,
         name: 'calcetines-gymshark',
         productName: 'Calcetines gymshark',
@@ -46,12 +47,24 @@ const gymsharkProducts = [
         image2: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/calcetinesgymshark4.jpeg?raw=true',
         image3: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/calcetinesgymshark2.jpeg?raw=true',
         image4: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/gymsharkImages/calcetinesgymshark1.jpeg?raw=true',
-        color:  'white',
+        color:  'White',
         category: 'Body fit',
         size: 'S | M | L',
         price: 250,
         type: ' c/u ',
-        stock: 'Agotado',
+        stock: '',
+
+    },,{
+        id: 434,
+        name: 'Calcetines-GYMSHARK-Pastel',
+        productName: 'Calcetines GYMSHARK',
+        image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/CalcetinesGYMSHARKPastel2.JPG?raw=true',
+        image2: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/CalcetinesGYMSHARKPastel1.JPG?raw=true',
+        color:  'Blanco| Rosa | Gris',
+        category: 'Body fit',
+        size: 'S M L',
+        price: 390,
+        type: '1100 Pack completo',
 
     },
     {
