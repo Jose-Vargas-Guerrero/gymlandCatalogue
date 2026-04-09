@@ -215,7 +215,7 @@ const wproducts = [
     },
     {   
         id: 17,
-        name: 'Banditas-para-el-cabello',
+        name: 'Bandita-para-el-cabello',
         productName: 'Banditas para el cabello',
         image1: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/banditasparaelcabello1.JPG?raw=true',
         image2: 'https://github.com/Jose-Vargas-Guerrero/gymlandImages/blob/main/shein/banditasparaelcabello2.JPG?raw=true',

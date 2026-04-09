@@ -54,7 +54,7 @@ const gymsharkProducts = [
         type: ' c/u ',
         stock: '',
 
-    },,{
+    },{
         id: 434,
         name: 'Calcetines-GYMSHARK-Pastel',
         productName: 'Calcetines GYMSHARK',
